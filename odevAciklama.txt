@@ -1,0 +1,7 @@
+Odev 1 de istenen yapilari mustafaesti.github.io adresinde deploy edilmesini gerceklestirdim.
+Odev 2 de istenen block inline yapilarini style.css dosyasinda harici olarak betimledim.
+Odev 3 de istenen yapiyi olusturmak icin okulumuzun online ders platform u ues uzerinden esinlendim kullandigim yapinin o siteye 
+    benzemesini hedefledim
+Odev 4 de 3 tane script eklenilmesi istenmisti ilk olarak Google Analytics i ekledim ardindan online mesajlasmayi saglayan
+    tawk.to icin gerekli script i ekledim. javascript kodunu harici bir dosyada kullanmak istedigimden script.js dosyasinin 
+    harici baglantisini index.html i ekledim.
